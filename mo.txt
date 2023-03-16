@@ -54,4 +54,5 @@ trojan://VQ2hwE43z7@mahsa225wr0l.mahsaaminivpn.com:27318?security=tls&type=tcp&h
 vless://12c73d73-65eb-49f7-9799-3ef473ee7402@aa.golrangshampoo.workers.dev:443?encryption=none&security=tls&sni=aa.golrangshampoo.workers.dev&type=ws&host=aa.golrangshampoo.workers.dev&path=%2Fca1-ws.xvless.xyz%2Fwebsocket#sshocean-mmnks54
 trojan://8d169139-c646-4731-be13-3e9c308479aa@gzdx1.170203.xyz:24798?security=tls&sni=sgmax03.170203.xyz&fp=firefox&type=tcp&headerType=none#%E6%97%A5%E6%9C%AC-1.60MB%2Fs%28Youtube%3A%E4%B8%8D%E8%89%AF%E6%9E%97%29
 trojan://8d169139-c646-4731-be13-3e9c308479aa@gzdx1.170203.xyz:24798?security=tls&sni=sgmax03.170203.xyz&fp=firefox&type=tcp&headerType=none#%E6%97%A5%E6%9C%AC-1.60MB%2Fs%28Youtube%3A%E4%B8%8D%E8%89%AF%E6%9E%97%29
+trojan://2064fddf-2f88-4111-83a1-7dc58df8a8d1@cat1.sshocean.net:443?security=tls&sni=zoomit.ir&fp=chrome&type=grpc&serviceName=grpc&mode=gun#sshocean-multi153726_Trojan_gRPC
 
